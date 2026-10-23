@@ -1,0 +1,6 @@
+{
+  "name": "Nirvaha AI",
+  "description": "Tell us what's wrong. Discover what to do next. An AI-powered life-problem guidance platform helping you navigate challenges, government schemes, and support resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
