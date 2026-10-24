@@ -1,6 +1,6 @@
 {
-  "name": "Nirvaha AI",
-  "description": "Tell us what's wrong. Discover what to do next. An AI-powered life-problem guidance platform helping you navigate challenges, government schemes, and support resources.",
+  "name": "NIRVAHA AI — Multilingual Public Service Navigation Agent",
+  "description": "Multilingual public service navigation agent for Indian citizens with voice interaction, verified welfare schemes, in-app AssistFill forms, document vault, and role-based guidance.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
